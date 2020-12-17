@@ -1,0 +1,9 @@
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\Demo\obj\Debug\netcoreapp3.1\Demo.pdb

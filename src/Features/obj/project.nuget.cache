@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bK18JCFtq59UfZKsqErRLIiBZsO1Rl7z/qGPE4BojO+4H0q4IS5f0vBm+LDnhG/xmcRPTYpTL8otH83xJ8l8MA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ademi\\Desktop\\Cursos\\Projetos  de Estudo- Git\\Curso Dominando os Testes de Software\\TesteDeSoftware\\src\\Features\\Features.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ademi\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\ademi\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
