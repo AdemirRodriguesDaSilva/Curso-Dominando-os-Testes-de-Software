@@ -15,7 +15,7 @@ namespace Features.Tests
         [InlineData("13830803800")]
         public void Cpf_ValidarMultiplosNumeros_TodosDevemSerValidos(string cpf)
         {
-            // Assert
+            // Arrange
             var cpfValidation = new CpfValidation();
 
             // Act & Assert

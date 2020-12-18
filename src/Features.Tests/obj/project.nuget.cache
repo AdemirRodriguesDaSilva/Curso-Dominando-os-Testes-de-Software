@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NV+kjVsNWTSJ8jjWp7q/JRJsz0gDBeOb0T3Gy80MmqWpMdlg0hm7xLqfu4uJLt3gqBN7w7egJk//AcXNqip7fw==",
+  "dgSpecHash": "nqMcrg/rNk3lg+ul2BuE+jQw8rl/3SiyGkdqacd3PutXAd6wQOtzHA8pt0q8NZCWd5CSEHJTjlQhZKZlyNZRqg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ademi\\Desktop\\Cursos\\Projetos  de Estudo- Git\\Curso Dominando os Testes de Software\\TesteDeSoftware\\src\\Features.Tests\\Features.Tests.csproj",
   "expectedPackageFiles": [
@@ -110,6 +110,7 @@
     "C:\\Users\\ademi\\.nuget\\packages\\xunit.core\\2.4.0\\xunit.core.2.4.0.nupkg.sha512",
     "C:\\Users\\ademi\\.nuget\\packages\\xunit.extensibility.core\\2.4.0\\xunit.extensibility.core.2.4.0.nupkg.sha512",
     "C:\\Users\\ademi\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
+    "C:\\Users\\ademi\\.nuget\\packages\\xunit.runner.console\\2.4.1\\xunit.runner.console.2.4.1.nupkg.sha512",
     "C:\\Users\\ademi\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512"
   ],
   "logs": []
