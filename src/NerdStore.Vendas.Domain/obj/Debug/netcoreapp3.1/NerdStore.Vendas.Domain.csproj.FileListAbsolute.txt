@@ -1,0 +1,14 @@
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.deps.json
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\Features.dll
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\Features.pdb
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csprojAssemblyReference.cache
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.AssemblyInfo.cs
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CopyComplete
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb

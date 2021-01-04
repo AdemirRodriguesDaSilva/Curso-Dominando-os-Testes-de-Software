@@ -1,0 +1,16 @@
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdSore.Vendas.Application.deps.json
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdSore.Vendas.Application.dll
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdSore.Vendas.Application.pdb
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdSore.Vendas.Application.csprojAssemblyReference.cache
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdSore.Vendas.Application.AssemblyInfoInputs.cache
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdSore.Vendas.Application.AssemblyInfo.cs
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdSore.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdSore.Vendas.Application.dll
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdSore.Vendas.Application.pdb
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\bin\Debug\netcoreapp3.1\Features.dll
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\bin\Debug\netcoreapp3.1\Features.pdb
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\src\NerdSore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdSore.Vendas.Application.csproj.CopyComplete

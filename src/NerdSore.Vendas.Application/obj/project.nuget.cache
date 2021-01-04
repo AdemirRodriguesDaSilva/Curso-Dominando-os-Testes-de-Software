@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PmIj4kLFlbTG47UWMoGt8fup/1jb8QWhdEyuxqfapDbVbSPOz84P6vXrk0eO//hfQLy6vAyOp2oWIZpqmLIVUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ademi\\Desktop\\Cursos\\Projetos  de Estudo- Git\\Curso Dominando os Testes de Software\\TesteDeSoftware\\src\\NerdSore.Vendas.Application\\NerdSore.Vendas.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ademi\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\ademi\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

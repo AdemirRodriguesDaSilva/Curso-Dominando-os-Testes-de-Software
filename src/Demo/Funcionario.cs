@@ -8,7 +8,7 @@ namespace Demo
     public class Pessoa
     {
         public string Nome { get; protected set; }
-        public string Apelido { get; set; }
+        public string Apelido { get; protected set; }
     }
 
     public class Funcionario : Pessoa

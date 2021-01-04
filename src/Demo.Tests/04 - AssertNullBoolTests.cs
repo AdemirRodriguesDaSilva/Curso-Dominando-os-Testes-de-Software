@@ -4,7 +4,8 @@ namespace Demo.Tests
 {
     public class AssertNullBoolTests
     {
-        [Fact]
+        [Fact(DisplayName = "Nome do funcionário não deve ser nulo ou vazio")]
+        [Trait("Categoria", "AssertNullBoolTests")]
         public void Funcionario_Nome_NaoDeveSerNuloOuVazio()
         {
             // Arrange & Act
@@ -14,7 +15,8 @@ namespace Demo.Tests
             Assert.False(string.IsNullOrEmpty(funcionario.Nome));
         }
 
-        [Fact]
+        [Fact(DisplayName = "Funcionário não deve ter apelido")]
+        [Trait("Categoria", "AssertNullBoolTests")]
         public void Funcionario_Apelido_NaoDeveTerApelido()
         {
             // Arrange & Act
@@ -25,7 +27,6 @@ namespace Demo.Tests
 
             // Assert Bool
             Assert.True(string.IsNullOrEmpty(funcionario.Apelido));
-            Assert.False(funcionario.Apelido?.Length > 0);
         }
     }
 }
