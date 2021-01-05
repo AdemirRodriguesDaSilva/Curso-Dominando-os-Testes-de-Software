@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dxTgRxFZpYTWbD7UeKvV7hSeae7l0UM6EcFEZiULhTSAgiqnPmEmoMH0BvW5Wl3TyoR03GHOmJmwa90EQzuPSQ==",
+  "dgSpecHash": "FDPlkT1Z0rId8wXB/dJc97feGgS4TWZXSuG0dL50WpJG0ILGFjdzxSdPk53dbn7F0l2VtYS7gpcFtg8v0wZl2g==",
   "success": true,
   "projectFilePath": "C:\\Users\\ademi\\Desktop\\Cursos\\Projetos  de Estudo- Git\\Curso Dominando os Testes de Software\\TesteDeSoftware\\tests\\NerdStore.Vendas.Domain.Tests\\NerdStore.Vendas.Domain.Tests.csproj",
   "expectedPackageFiles": [
