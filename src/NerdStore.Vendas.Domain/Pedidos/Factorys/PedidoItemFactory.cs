@@ -34,5 +34,10 @@ namespace NerdStore.Vendas.Domain.Pedidos.Factorys
         {
             return new PedidoItem(produtoId, "Produto Teste", quantidade, valorUnitario);
         }
+
+        public static PedidoItem NovoPedidoItem(Guid produtoId, int quantidade, string ProdutoNome, decimal valorUnitario)
+        {
+            return new PedidoItem(produtoId, ProdutoNome, quantidade, valorUnitario);
+        }
     }
 }

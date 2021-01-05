@@ -1,11 +1,11 @@
 ﻿using FluentValidation;
-using NerdSore.Vendas.Application.Pedidos.Commands;
+using NerdSore.Vendas.Application.Pedidos.AdicionarPedidoItem;
 using NerdStore.Vendas.Domain.Pedidos;
 using System;
 
 namespace NerdSore.Vendas.Application.Pedidos.Validations
 {
-    public class AdicionarItemPedidoValidation : AbstractValidator<AdicionarItemPedidoCommand>
+    public class AdicionarPedidoItemValidation : AbstractValidator<AdicionarPedidoItemCommand>
     {
         public static string ClientIdErroMsg => "Id do client inválido";
         public static string ProdutoIdErroMsg => "Id do produto inválido";
@@ -14,7 +14,7 @@ namespace NerdSore.Vendas.Application.Pedidos.Validations
         public static string QuantidadeMinimaErroMsg => $"A quantidade mínima de um item é {Pedido.MINIMO_UNIDADES_ITEM}";
         public static string ValorUnitarioErroMsg => "O valor do item precisa ser maios que 0";
 
-        public AdicionarItemPedidoValidation()
+        public AdicionarPedidoItemValidation()
         {
             RuleFor(c => c.ClientId)
                 .NotEqual(Guid.Empty)

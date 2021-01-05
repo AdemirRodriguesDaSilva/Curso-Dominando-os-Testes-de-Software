@@ -1,6 +1,6 @@
-﻿using NerdStore.Vendas.Core.DomainObjects;
+﻿using NerdStore.Core.DomainObjects.Enums;
+using NerdStore.Vendas.Core.DomainObjects;
 using NerdStore.Vendas.Domain.Pedidos;
-using NerdStore.Vendas.Domain.Pedidos.Enums;
 using NerdStore.Vendas.Domain.Pedidos.Factorys;
 using System;
 using System.Linq;

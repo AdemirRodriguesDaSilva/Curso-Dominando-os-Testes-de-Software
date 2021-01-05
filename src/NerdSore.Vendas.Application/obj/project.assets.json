@@ -38,7 +38,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "FluentValidation": "9.3.0"
+          "FluentValidation": "9.3.0",
+          "Mediatr": "9.0.0"
         },
         "compile": {
           "bin/placeholder/NerdStore.Core.dll": {}

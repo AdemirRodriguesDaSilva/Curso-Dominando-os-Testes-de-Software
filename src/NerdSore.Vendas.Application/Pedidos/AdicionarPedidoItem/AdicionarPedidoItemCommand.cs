@@ -2,9 +2,9 @@
 using NerdStore.Core.Messages;
 using System;
 
-namespace NerdSore.Vendas.Application.Pedidos.Commands
+namespace NerdSore.Vendas.Application.Pedidos.AdicionarPedidoItem
 {
-    public class AdicionarItemPedidoCommand : Command
+    public class AdicionarPedidoItemCommand : Command
     {
         public Guid ClientId { get; private set; }
         public Guid ProdutoId { get; private set; }
@@ -12,7 +12,7 @@ namespace NerdSore.Vendas.Application.Pedidos.Commands
         public int Quantidade { get; private set; }
         public decimal ValorUnitario { get; private set; }
 
-        public AdicionarItemPedidoCommand(Guid clientId, Guid produtoId, string produtoNome, int quantidade, decimal valorUnitario)
+        public AdicionarPedidoItemCommand(Guid clientId, Guid produtoId, string produtoNome, int quantidade, decimal valorUnitario)
         {
             ClientId = clientId;
             ProdutoId = produtoId;
@@ -24,7 +24,7 @@ namespace NerdSore.Vendas.Application.Pedidos.Commands
 
         public override bool EhValido()
         {
-            ValidationResult = new AdicionarItemPedidoValidation().Validate(this);
+            ValidationResult = new AdicionarPedidoItemValidation().Validate(this);
             return ValidationResult.IsValid;
         }
     }

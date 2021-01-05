@@ -1,5 +1,5 @@
-﻿using NerdStore.Vendas.Domain.Pedidos;
-using NerdStore.Vendas.Domain.Pedidos.Enums;
+﻿using NerdStore.Core.DomainObjects.Enums;
+using NerdStore.Vendas.Domain.Pedidos;
 using NerdStore.Vendas.Domain.Pedidos.Validations;
 using System;
 using System.Linq;

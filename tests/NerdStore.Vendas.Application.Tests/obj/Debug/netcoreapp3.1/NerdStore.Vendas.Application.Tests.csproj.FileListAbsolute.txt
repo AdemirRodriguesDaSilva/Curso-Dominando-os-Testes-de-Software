@@ -104,3 +104,6 @@ C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes
 C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\tests\NerdStore.Vendas.Application.Tests\bin\Debug\netcoreapp3.1\Features.pdb
 C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\tests\NerdStore.Vendas.Application.Tests\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
 C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\tests\NerdStore.Vendas.Application.Tests\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\tests\NerdStore.Vendas.Application.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\tests\NerdStore.Vendas.Application.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\ademi\Desktop\Cursos\Projetos  de Estudo- Git\Curso Dominando os Testes de Software\TesteDeSoftware\tests\NerdStore.Vendas.Application.Tests\bin\Debug\netcoreapp3.1\Moq.AutoMock.dll

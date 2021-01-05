@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bCONS5xFVrPt/GIHjiqfjyIzFK641BMZUJdxrf9otKI+qagsJzf/MwiK3OVmTqanLQ+BZzwL5uBVYXhGkWFJ7A==",
+  "dgSpecHash": "eLWgcDzlfy2EVPxY57I1CFyYKZE8EMfEDKWhD6o6tyQWSZhkpyAiRcDgwm9s8GJADDKFhJE55+c+GxD71UHQ2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\ademi\\Desktop\\Cursos\\Projetos  de Estudo- Git\\Curso Dominando os Testes de Software\\TesteDeSoftware\\src\\NerdStore.Core\\NerdStore.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ademi\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512"
+    "C:\\Users\\ademi\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\ademi\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }

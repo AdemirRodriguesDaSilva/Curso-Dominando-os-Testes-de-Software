@@ -41,7 +41,8 @@
       },
       "NerdStore.Core/1.0.0": {
         "dependencies": {
-          "FluentValidation": "9.3.0"
+          "FluentValidation": "9.3.0",
+          "MediatR": "9.0.0"
         },
         "runtime": {
           "NerdStore.Core.dll": {}

@@ -2,7 +2,7 @@
 
 namespace Features.Clientes
 {
-    public interface IClienteRepository : IRepository<Cliente>
+    public interface IClienteRepository : IRepositoryTesteDeUnidade<Cliente>
     {
         Cliente ObterPorEmail(string email);
     }

@@ -4,7 +4,7 @@ using System.Linq.Expressions;
 
 namespace Features.Core
 {
-    public interface IRepository<TEntity> : IDisposable where TEntity : Entity
+    public interface IRepositoryTesteDeUnidade<TEntity> : IDisposable where TEntity : Entity
     {
         void Adicionar(TEntity obj);
         TEntity ObterPorId(Guid id);
