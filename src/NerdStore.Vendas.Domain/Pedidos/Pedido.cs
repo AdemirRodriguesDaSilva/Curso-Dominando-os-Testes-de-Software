@@ -1,7 +1,7 @@
 ﻿using FluentValidation.Results;
 using NerdStore.Core.DomainObjects;
+using NerdStore.Core.DomainObjects.Enums;
 using NerdStore.Vendas.Core.DomainObjects;
-using NerdStore.Vendas.Domain.Pedidos.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;

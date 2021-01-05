@@ -1,4 +1,4 @@
-﻿namespace NerdStore.Vendas.Domain.Pedidos.Enums
+﻿namespace NerdStore.Core.DomainObjects.Enums
 {
     public enum TipoDescontoVoucher
     {

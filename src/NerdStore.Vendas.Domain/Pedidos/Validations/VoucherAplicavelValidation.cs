@@ -1,5 +1,5 @@
 ﻿using FluentValidation;
-using NerdStore.Vendas.Domain.Pedidos.Enums;
+using NerdStore.Core.DomainObjects.Enums;
 using System;
 
 namespace NerdStore.Vendas.Domain.Pedidos.Validations
